@@ -9,3 +9,7 @@ This is a test i am doing
 ## How to Contribute
 
 Again, modifying this file
+
+### Copyright
+
+2015 Salomon May
