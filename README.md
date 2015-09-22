@@ -10,6 +10,8 @@ This is a test i am doing
 
 Again, modifying this file
 
+Please fork this repository
+
 ### Copyright
 
 2015 Salomon May
