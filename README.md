@@ -14,4 +14,4 @@ Please fork this repository
 
 ### Copyright
 
-2015 Salomon May
+2015 Salomon May. All rights reserved
